@@ -24,3 +24,4 @@ Use at your own risk. Roblox has strict anti-botting measures. This script inclu
 - **Rate Limit Protection:** Pauses automatically if Roblox sends a 429 (Too Many Requests) error.
 - **Dashboard:** Shows live progress, estimated time remaining, and total count.
 
+![Console Proof](proof.png)
