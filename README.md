@@ -19,6 +19,9 @@ Use at your own risk. Roblox has strict anti-botting measures. This script inclu
 6. Paste it into the console and hit Enter.
 7. Leave the tab open while it runs.
 
+## Tampermonkey
+[**➡️ Click here to install directly into Tampermonkey**](https://github.com/dy1an4895/Roblox-Mass-Unfollower-Console-Script/raw/main/Roblox-Mass-Unfollower.js)
+
 ## Features
 - **Auto-Token Refresh:** Automatically fixes 403 Forbidden errors when your security token expires.
 - **Rate Limit Protection:** Pauses automatically if Roblox sends a 429 (Too Many Requests) error.
